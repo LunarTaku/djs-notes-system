@@ -5,7 +5,6 @@ const {
   EmbedBuilder,
 } = require("discord.js");
 
-const warnSchema = require("../../schemas/moderation/warnSchema"); // change this to your path
 const noteSchema = require("../../schemas/moderation/noteSchema"); // change this to your path
 
 module.exports = {
